@@ -11,8 +11,7 @@ A little chat application featuring real-time messaging, user presence tracking.
 
 ## Tech Stack
 - Frontend: React, TypeScript, Styled-Components
-- Backend: Spring Boot, WebSocket, JPA
-- Communication: WebSocket protocol
+- Backend: Spring Boot, WebSocket
 
 backend here : https://github.com/ErgunYavuz/SimpleChat
 
